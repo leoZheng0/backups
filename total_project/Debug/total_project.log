@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\vcpg\net_tech_and_apply\total_project\total_project\prtc.h(29,2): warning C4091: “typedef ”: 没有声明变量时忽略“ArpHeader”的左侧
+D:\vcpg\net_tech_and_apply\total_project\total_project\prtc.h(37,2): warning C4091: “typedef ”: 没有声明变量时忽略“EthernetHeader”的左侧
+D:\vcpg\net_tech_and_apply\total_project\total_project\prtc.h(44,2): warning C4091: “typedef ”: 没有声明变量时忽略“ArpPacket”的左侧
+D:\vcpg\net_tech_and_apply\total_project\total_project\main.cpp(17,11): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“pcap_addr *”
+D:\vcpg\net_tech_and_apply\total_project\total_project\main.cpp(105): warning C4172: 返回局部变量或临时变量的地址: arpData
+  total_project.vcxproj -> D:\vcpg\net_tech_and_apply\total_project\total_project\Debug\total_project.exe
